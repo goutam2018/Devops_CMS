@@ -1,1 +1,2 @@
 This is bang branch 
+First version of bang
